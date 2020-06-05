@@ -16,8 +16,8 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-def assembled_matrix =
-  [ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE]
+def assembled_matrix 
+  matrix = [ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE]
   
   
   
